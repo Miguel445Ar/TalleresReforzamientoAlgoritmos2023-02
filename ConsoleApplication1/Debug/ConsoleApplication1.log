@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\ConsoleApplication1\src\entidades\Controller.hpp(16,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MyForm.cpp
+C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\ConsoleApplication1\src\entidades\Controller.hpp(16,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ConsoleApplication1.vcxproj -> C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\ConsoleApplication1\Debug\ConsoleApplication1.exe

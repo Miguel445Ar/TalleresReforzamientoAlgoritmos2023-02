@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\ConsoleApplication1\Debug\ConsoleApplication1.vcxproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\ConsoleApplication1\Debug\ConsoleApplication1.MyForm.resources
+C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\ConsoleApplication1\Debug\ConsoleApplication1.vcxproj.GenerateResource.cache
