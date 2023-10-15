@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\Semana9\src\entities\GestorDeFiguras.hpp(14,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\Semana9\src\entities\GestorDeFiguras.hpp(18,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\Semana9\src\entities\GestorDeFiguras.hpp(34,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\Semana9\src\entities\GestorDeFiguras.hpp(51,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Semana9.cpp
+C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\Semana9\src\entities\GestorDeFiguras.hpp(14,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\Semana9\src\entities\GestorDeFiguras.hpp(18,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\Semana9\src\entities\GestorDeFiguras.hpp(34,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\Semana9\src\entities\GestorDeFiguras.hpp(51,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Semana9.vcxproj -> C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\Semana9\x64\Debug\Semana9.exe
