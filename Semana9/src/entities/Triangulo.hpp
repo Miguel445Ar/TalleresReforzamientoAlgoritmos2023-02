@@ -18,6 +18,15 @@ public:
 		dimensionFigura.setY(dimensionFigura.getY() + velocidadY);
 	}
 	void dibujar(Graphics^ g) override {
-		g->DrawEllipse(Pens::Green, area());
+		/*g->DrawEllipse(Pens::Green, area());*/
+		int x = dimensionFigura.getX();
+		int y = dimensionFigura.getY();
+		int ancho = dimensionFigura.getAncho();
+		int alto = dimensionFigura.getAlto();
+		Point p1(x, y);
+		Point p2(x, y + alto);
+		Point p3(x + ancho, y + alto);
+		array<Point>^ puntos = { p1, p2, p3 };
+		g->DrawPolygon(Pens::Green, puntos);
 	}
 };

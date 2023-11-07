@@ -18,6 +18,7 @@ namespace Semana9 {
 		Controller^ controller;
 		Graphics^ graficador;
 		BufferedGraphics^ buffer;
+		int messageBoxCount;
 	public:
 		MyForm(void)
 		{
@@ -25,6 +26,7 @@ namespace Semana9 {
 			graficador = CreateGraphics();
 			buffer = BufferedGraphicsManager::Current->Allocate(graficador, this->ClientRectangle);
 			controller = gcnew Controller();
+			messageBoxCount = 0;
 		}
 
 	protected:
@@ -81,8 +83,17 @@ namespace Semana9 {
 #pragma endregion
 	private: System::Void animar(System::Object^ sender, System::EventArgs^ e) {
 		this->buffer->Graphics->Clear(Color::White);
-		this->controller->animar(this->buffer->Graphics);
+		bool animacionTerminada = this->controller->animar(this->buffer->Graphics);
 		this->buffer->Render();
+		if (animacionTerminada) {
+			if (messageBoxCount == 0) {
+				MessageBox::Show("Cantidad Circulos" + controller->getCantidadCirculos() + "\n"
+					+ "Cantidad Triangulos: " + controller->getCantidadTriangulos());
+				ShowDialog();
+				++messageBoxCount;
+				
+			}
+		}
 	}
 	private: System::Void presionarTecla(System::Object^ sender, System::Windows::Forms::KeyEventArgs^ e) {
 		this->controller->detectarTeclas(this->buffer->Graphics, e->KeyCode);

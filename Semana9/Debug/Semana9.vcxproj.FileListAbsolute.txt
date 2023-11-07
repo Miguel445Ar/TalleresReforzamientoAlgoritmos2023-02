@@ -1,4 +1,0 @@
-C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\Semana9\Debug\Semana9.vcxproj.AssemblyReference.cache
-C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\Semana9\Debug\Semana9.MyForm.resources
-C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\Semana9\Debug\Semana9.vcxproj.GenerateResource.cache
-C:\Users\HP\Desktop\Accessos Directos\CanalYouTube\Talleres Reforzamiento Algoritmos (Progra 2)  - 2023-03\Semana9\Debug\Semana9.exe

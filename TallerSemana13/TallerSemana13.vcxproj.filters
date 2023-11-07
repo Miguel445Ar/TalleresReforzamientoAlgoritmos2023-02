@@ -29,30 +29,21 @@
     <ClInclude Include="MyForm.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\entities\Figura.hpp">
+    <ClInclude Include="src\entities\Personaje.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\utils\DimensionFigura.hpp">
+    <ClInclude Include="src\utils\Dimension.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\entities\Circulo.hpp">
+    <ClInclude Include="src\utils\ManejadorArchivos.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\entities\Triangulo.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\entities\GestorDeFiguras.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\controllers\Controller.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\utils\FileHandler.hpp">
+    <ClInclude Include="src\entities\PersonajeRojo.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Semana9.cpp">
+    <ClCompile Include="TallerSemana13.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="AssemblyInfo.cpp">
@@ -67,6 +58,9 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="app.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sprites.png">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>

@@ -37,6 +37,12 @@ public:
 			triangulos.erase(triangulos.begin() + i);
 		}
 	}
+	int getCantidadCirculos() {
+		return this->circulos.size();
+	}
+	int getCantidadTriangulos() {
+		return this->triangulos.size();
+	}
 private:
 	void animarTriangulos(Graphics^ g) {
 		for (Triangulo* triangulo : triangulos)

@@ -1,0 +1,2 @@
+Circulos restantes: 0
+Triangulos restantes: 0
